@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TechnicalAssignment</string>
+    <string name="load_file_btn">Load File</string>
+    <string name="successful_label">Successful</string>
+    <string name="zero">00</string>
+    <string name="unsuccessful_label">Unsuccessful</string>
+    <string name="find_relations">Find relations</string>
+</resources>
